@@ -297,6 +297,8 @@
 	</dict>
 	<key>My Custom Actions</key>
 	<dict>
+		<key>Copy Current Line</key>
+		<string>selectLine:, copy:</string>
 		<key>Insert Line Below</key>
 		<string>moveToEndOfLine:, insertNewline:</string>
 		<key>Insert Line Above</key>
